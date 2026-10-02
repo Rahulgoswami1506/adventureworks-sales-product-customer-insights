@@ -1,7 +1,7 @@
 # AdventureWorks Sales, Product & Customer Insights Dashboard
 
 <p align="center">
-  <img src="cover/adventureworks-cover.png" alt="AdventureWorks Sales, Product & Customer Insights Dashboard" width="100%">
+  <img src="Project_Cover.png" alt="AdventureWorks Sales, Product & Customer Insights Dashboard" width="100%">
 </p>
 
 <p align="center">
@@ -43,19 +43,25 @@ The report uses interactive navigation, slicers, drill-down analysis, and DAX-dr
 ### Executive Dashboard
 
 <p align="center">
-  <img src="screenshots/executive-dashboard.png" alt="AdventureWorks Executive Dashboard" width="100%">
+  <img src="screenshots/Exec Dashboard.png" alt="AdventureWorks Executive Dashboard" width="100%">
 </p>
 
-### Product Detail
+### Product Details
 
 <p align="center">
-  <img src="screenshots/product-detail.png" alt="AdventureWorks Product Detail Dashboard" width="100%">
+  <img src="screenshots/Product Details.png" alt="AdventureWorks Product Detail Dashboard" width="100%">
 </p>
 
-### Customer Detail
+### Customer Details
 
 <p align="center">
-  <img src="screenshots/customer-detail.png" alt="AdventureWorks Customer Detail Dashboard" width="100%">
+  <img src="screenshots/Customer Details.png" alt="AdventureWorks Customer Detail Dashboard" width="100%">
+</p>
+
+### Map Analysis
+
+<p align="center">
+  <img src="screenshots/MAP.png" alt="AdventureWorks Map Analysis" width="100%">
 </p>
 
 ## Project Files
@@ -69,12 +75,12 @@ The report uses interactive navigation, slicers, drill-down analysis, and DAX-dr
 /
 ├── README.md
 ├── AdventureWorks_Sales_Product_Customer_Insights.pbix
-├── cover/
-│   └── adventureworks-cover.png
+├── Project_Cover.png
 └── screenshots/
-    ├── executive-dashboard.png
-    ├── product-detail.png
-    └── customer-detail.png
+    ├── Exec Dashboard.png
+    ├── Product Details.png
+    ├── Customer Details.png
+    └── MAP.png
 ```
 
 ## Author
