@@ -56,10 +56,6 @@ The report uses interactive navigation, slicers, drill-down analysis, and DAX-dr
 
 ![AdventureWorks Map Analysis](./MAP.png)
 
-## Project Files
-
-- [Power BI Report (.pbix)](./AdventureWorks_Sales_Product_Customer_Insights.pbix)
-
 ## Repository Files
 
 - **Project_Cover.png** — project cover image
