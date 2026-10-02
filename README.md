@@ -12,7 +12,7 @@
 
 This project is a multi-page Power BI business intelligence solution built using the AdventureWorks dataset. It combines executive KPI reporting with detailed product, customer, and geographic analysis.
 
-The report uses interactive navigation, slicers, drill-down analysis, and DAX-driven measures to help explore business performance from different perspectives.
+The report uses interactive navigation, slicers, drill-down analysis, and DAX-driven measures to explore business performance from different perspectives.
 
 ## Dashboard Pages
 
@@ -42,46 +42,32 @@ The report uses interactive navigation, slicers, drill-down analysis, and DAX-dr
 
 ### Executive Dashboard
 
-<p align="center">
-  <img src="screenshots/Exec Dashboard.png" alt="AdventureWorks Executive Dashboard" width="100%">
-</p>
+![AdventureWorks Executive Dashboard](./Exec%20Dashboard.png)
 
 ### Product Details
 
-<p align="center">
-  <img src="screenshots/Product Details.png" alt="AdventureWorks Product Detail Dashboard" width="100%">
-</p>
+![AdventureWorks Product Details](./Product%20Details.png)
 
 ### Customer Details
 
-<p align="center">
-  <img src="screenshots/Customer Details.png" alt="AdventureWorks Customer Detail Dashboard" width="100%">
-</p>
+![AdventureWorks Customer Details](./Customer%20Details.png)
 
 ### Map Analysis
 
-<p align="center">
-  <img src="screenshots/MAP.png" alt="AdventureWorks Map Analysis" width="100%">
-</p>
+![AdventureWorks Map Analysis](./MAP.png)
 
 ## Project Files
 
 - [Power BI Report (.pbix)](./AdventureWorks_Sales_Product_Customer_Insights.pbix)
-- Dashboard screenshots are available in the `screenshots` folder.
 
-## Repository Structure
+## Repository Files
 
-```text
-/
-├── README.md
-├── AdventureWorks_Sales_Product_Customer_Insights.pbix
-├── Project_Cover.png
-└── screenshots/
-    ├── Exec Dashboard.png
-    ├── Product Details.png
-    ├── Customer Details.png
-    └── MAP.png
-```
+- **Project_Cover.png** — project cover image
+- **Exec Dashboard.png** — executive dashboard
+- **Product Details.png** — product analysis
+- **Customer Details.png** — customer analysis
+- **MAP.png** — geographic analysis
+- **AdventureWorks_Sales_Product_Customer_Insights.pbix** — Power BI report
 
 ## Author
 
